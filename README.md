@@ -13,7 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Create a functioning landing page and try to make a structured layout somewhat personal
+Create a functioning landing page and create more stylization around youtube videos
 
 ### Deployment
 
