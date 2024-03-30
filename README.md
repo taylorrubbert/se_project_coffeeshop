@@ -1,4 +1,4 @@
-# Triple Peaks Coffee Shop
+# Sprint 2: Twin Peaks Coffee Shop
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
@@ -13,4 +13,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Create a functioning landing page and try to make a structured layout somewhat personal
+
+### Deployment
+
+No special instructions
