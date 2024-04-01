@@ -49,13 +49,14 @@
   font-family: "Noto Serif", Times New Roman, serif;
   font-size: 20px;
   line-height: 30px;
-  margin: 0;
-  padding: 0 0 20px;
+  margin: 0 0 20px;
+  padding: 0;
   z-index: 1;
 }
 
 .about__paragraph:last-child {
   margin: 0;
+  padding: 0;
 }
 
 .about__circle {

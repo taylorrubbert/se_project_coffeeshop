@@ -20,8 +20,8 @@
   font-size: 60px;
   line-height: 72px;
   letter-spacing: -0.6px;
-  padding: 183px 0 28px 80px;
-  margin: 0;
+  padding: 0;
+  margin: 183px 0 28px 0;
   max-width: 729px;
 }
 
@@ -39,7 +39,7 @@
   font-size: 20px;
   line-height: 30px;
   margin: 0;
-  padding-left: 80px;
+  padding: 0;
   max-width: 683px;
 }
 
@@ -55,12 +55,12 @@
 .header__footer {
   font-weight: 500;
   color: #838383;
-  margin-bottom: 40px;
-  margin-left: 80px;
-  margin-right: 80px;
+  margin: 0;
+  padding: 0;
   display: flex;
   justify-content: space-between;
   margin-top: auto;
+  align-items: end;
 }
 
 .header__paragraph {
